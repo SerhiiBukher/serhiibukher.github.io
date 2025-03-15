@@ -1,6 +1,6 @@
 # Hi, I'm Serhii Bukher
 
-**Data Analyst | Doctor Turned Data Enthusiast**
+## Data Analyst | Doctor Turned Data Enthusiast
 
 I am a practicing doctor with a background in healthcare and a passion for data analytics. I am seeking new challenges and opportunities to leverage data in solving complex problems. I love working with data, analyzing it, and creating meaningful visualizations that drive insights.
 
